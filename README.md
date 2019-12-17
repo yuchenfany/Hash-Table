@@ -1,2 +1,2 @@
 # hash-table
-Hash table implemented in C++
+Hash table implemented in C++ (named WordSet)
